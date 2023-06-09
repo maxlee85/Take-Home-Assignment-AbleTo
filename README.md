@@ -1,6 +1,6 @@
 # Take-Home-Assignment-AbleTo
 
-## Queries submitted for AbleTo SQL assessment. Use of
+## Queries submitted for AbleTo SQL assessment. Use of:
 #### Window Functions
 #### Aggregate Functions
 #### CTEs (common table expressions)
